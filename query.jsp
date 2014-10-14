@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>查询所以信息界面</title>
-
+<title>查询所以信息界面</title>
 </head>
 
 <body>

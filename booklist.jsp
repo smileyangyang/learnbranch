@@ -16,7 +16,7 @@
 					onclick="{window.location.href='index.jsp';}"/>
 	<table border="1" align="center">
 		<tr>
-			<td colspan="4" align="center" bgcolor="white">图书信息</td>
+			<td colspan="4" align="center" bgcolor="white">图书信息列表</td>
 		</tr>
 		<tr>
 			<td align="center" bgcolor="white">Title</td>
